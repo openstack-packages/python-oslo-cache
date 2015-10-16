@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Sat, 17 Oct 2015 00:21:45 +0200
+Reviewed-on: https://review.gerrithub.io/249967
+Project: openstack-packages/python-oslo-cache
+Branch: refs/heads/rpm-master
