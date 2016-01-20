@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa81d914_41eeb4b5",
+        "filename": "python-oslo-cache.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 1002601
+      },
+      "writtenOn": "2016-01-20T14:03:50Z",
+      "side": 1,
+      "message": "same tests should be versioned too python2/python3",
+      "revId": "2801458afedb631aeaca01dfa552daee2968ca0d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
